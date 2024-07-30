@@ -1,2 +1,2 @@
 # DN3.0_Exercises
-Weekly tasks for Digital Nuture Java FSE
+Weekly tasks for Digital Nurture 3.0 Java FSE
